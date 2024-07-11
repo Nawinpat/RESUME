@@ -23,7 +23,7 @@ const About = () => {
             contribute and grow. Feel free to connect with me, links are in the
             footer.
             <br />
-            Apart from coding I love to make discord servers,designs and do
+            Apart from coding I love to make Website servers,designs and do
             photography in my spare time.
           </p>
           <a href="งานพอร์ต.pdf" download className="งานพอร์ต-btn">
