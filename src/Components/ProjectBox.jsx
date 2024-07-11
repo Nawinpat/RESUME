@@ -7,8 +7,8 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     SutcampDesc:
       "ที่ค่ายSut Campนี้ผมได้เข้าร่วมไปชมอาจารย์ใหญ่กับทางคณะทีมของกระผมที่มหาลัยสุรนารีซึ่งจากกิจกรรมนี้กระผมได้เรียนรู้อะไรหลายๆอย่างจากอาจาร์ที่มาให้ความรู้.",
     
-    MovieDesc:
-      "This web app  is for helping you find your desired movie.The project helped me with understanding the working of API.I also learned new CSS properties and tricks.",
+    ChulaBlockatonDesc:
+      "ค่ายนี้ให้ผมได้ความรู้เกี่ยวกับ Blockchain และได้มีการให้ทำ work shop ต่างๆมากมายซึ่งผมได้รับความรู้อย่างมากหลังจากได้เข้าค่ายตัวนี้",
     
     ColourPaletteDesc:
       "This website helps you generate random colours that you can use as a palette.The project helped me understand Javascript more deeply using advance techniques",
